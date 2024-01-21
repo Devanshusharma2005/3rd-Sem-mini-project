@@ -17,10 +17,7 @@ Speech-to-Text (STT):
 Users can record their speech using the "Record" button.
 The application utilizes the Web Speech API to recognize and convert recorded speech into text.
 The "Stop Recording" button stops the recording process.
-Language Translation:
 
-A language selection dropdown allows users to choose the target language.
-The "Translate" button translates the entered text into the selected language using the Google Translate API.
 User Interface:
 
 The UI features a stylish and responsive design with smooth transitions.
